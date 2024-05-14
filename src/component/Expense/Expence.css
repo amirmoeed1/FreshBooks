@@ -1,0 +1,252 @@
+.expence {
+    background-image: url('../../../public/Expense/hero-expenses-cream.webp');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* Center the background image */
+}
+
+#button {
+    width: 250px;
+}
+.btn-success1{
+    background-color: #36a900;
+}
+
+@media(max-width: 800px) {
+    .expence-heading {
+        font-size: 1.2rem;
+    }
+
+    .expence {
+        background-size: 100% 100%;
+        height: 200px;
+        /* Adjust the height as needed */
+    }
+
+    .expence-paragraph {
+        display: none;
+    }
+}
+
+/* end Expence */
+
+
+
+.nav-item a {
+    color: #007bff;
+}
+
+.star {
+    flex-wrap: wrap;
+}
+
+.star h4,
+.star img,
+.star p {
+    margin: 0 5px;
+}
+
+.star p {
+    margin-left: 20px;
+}
+
+.star img {
+    margin-left: 20px;
+}
+
+/* end star */
+
+.business-img {
+    width: 95%;
+}
+
+.business-content {
+    padding-left: 150px;
+}
+
+.business-content h1 {
+    width: 87%;
+}
+
+.business-content p {
+    width: 80%;
+}
+
+.tic {
+    width: 20px;
+}
+
+.dot {
+    list-style: none;
+    line-height: 40px;
+}
+
+.text {
+    float: right;
+}
+
+.arrow-image {
+    width: 12px;
+    height: 8px;
+    margin-left: 8px;
+    /* Adjust as needed */
+    transition: transform 0.3s ease;
+    /* Smooth transition */
+}
+
+.rotate180 {
+    transform: rotate(180deg);
+}
+
+/* .business-content */
+/* .expence-content {
+    width: 50%;
+    padding-top: 81px;
+    padding-left: 112px;
+}
+
+.expence-heading {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.expence-paragraph {
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+
+.expence-btn {
+    background-color: #36a900;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    width: 40%;
+    height: 40px;
+    cursor: pointer;
+    margin: auto;
+
+} */
+
+/* .after-btn {
+    margin-top: 10px;
+    width: 45%;
+    font-size: 14px;
+    color: #666;
+}
+
+.after-btn span {
+    padding-left: 40px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 50px 
+     Adjust this value to set the desired gap between navbar items 
+}
+
+/* #nav {
+    width: 30%;
+    margin-left: 20px;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.nav-item a {
+    color: #007bff;
+}
+
+.dropdown-item {
+    color: black;
+} */
+
+
+
+
+
+
+
+/* .star {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.star a {
+    color: rgb(70, 63, 63);
+    padding-left: 10px;
+}
+
+.star img {
+    padding-left: 10px;
+}
+
+@media (max-width: 1000px) {
+    .business-img-container {
+        margin-top: 30px;
+        /* Add some spacing between image and text */
+/* }
+
+    .business-img {
+        width: 100%;
+        /* Make image responsive */
+/* }
+
+    .business-heading {
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    .business-paragraph {
+        text-align: center;
+        margin-left: 20px; */
+
+/* }
+} */
+
+
+/* .business-img {
+    width: 80%;
+
+}
+
+.business-heading {
+    width: 70%;
+}
+
+.business-paragraph {
+    width: 70%;
+}
+
+#scan {
+    width: 40%;
+    line-height: 35px;
+} */
+
+/* .scan-img {
+    width: 60%;
+    margin-left: 280px;
+}
+
+
+
+.never-img {
+    width: 80%;
+}
+
+.never-heading {
+    width: 70%;
+}
+
+.never-paragraph {
+    width: 65%;
+}
+
+.category-heading {
+    width: 65%;
+} */

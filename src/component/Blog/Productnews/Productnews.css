@@ -1,0 +1,15 @@
+.more-articles {
+  margin-right: 17%;
+}
+h2.section-title {
+  font-size: 28px;
+  width: 100%;
+  padding-left: 8px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  letter-spacing: 1px;
+  line-height: 125%;
+  text-align: center;
+  display: block;
+  color: #062942;
+}

@@ -1,0 +1,19 @@
+
+ 
+    .hiiid{
+        display: none;
+        
+    }
+
+ 
+.text{
+    float: right;
+}
+@media (max-width: 1023px) {
+    /* Small screen */
+    .hiiid{
+        display: block;
+        /* color: white; */
+     
+    }
+}

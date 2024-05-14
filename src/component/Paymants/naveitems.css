@@ -1,0 +1,165 @@
+.text-11{
+    font-size: 20px;
+    /* font-weight: 30px; */
+    justify-content: space-between;
+}
+.fontweight-para{
+    font-size: 20px;
+}
+.btn-color{
+   background-color: #36a900;
+   color: #ffffff;
+   height: 60px;
+   font-weight: bold;
+   
+}
+.color-22{
+   color: #0075dd;
+}
+ 
+.hr-margin{
+    margin-top: 50px;
+    width: 85%;
+    margin-left: 100px;
+}
+.hr1-margin{
+    margin-top: 60px;
+    width: 85%;
+    margin-left: 100px;
+}
+.btn-22{
+    width: 162px;
+    height: 53px;
+    border-radius: 10px;
+    background-color: rgb(244, 246, 247) ;
+}
+.btn-33{
+    width: 162px;
+    height: 53px;
+    border-radius: 10px;
+    background-color: #36a900;
+    border: none;
+}
+.para3rd{
+    font-size: 15px;
+}
+.tikmark-img{
+    background-image: url('../../../public/tikmark.svg');
+    /* background-image: url(/wp-content/themes/freshpress/dist/45d1aed….svg); */
+    background-position: left 0;
+    background-repeat: no-repeat;
+    background-size: 18px 26px;
+    line-height: 1.55556;
+    list-style-type: none;
+    margin: 0 auto 10px;
+    padding-left: 26px;
+}
+.mleft{
+    margin-left: 150px;
+}
+.mleft1{
+    margin-left: 120px;
+}
+.para4th{
+    font-size: 18px;
+}
+.mleft-2{
+    margin: 0px 80px;
+}
+.tikmark-img2{
+    background-image: url('../../../public/tikmark.svg');
+     
+    background-repeat: no-repeat;
+    background-size: 23px 36px;
+    line-height: 1.55556;
+    list-style-type: none;
+    margin: 10px  38px;
+    padding-left: 36px;
+    font-size: 20px;
+}
+ .mtopimage-5{
+    margin-top: 100px;
+
+ }
+ .color-para{
+    /* background-color: #8495a2; */
+    width: 160px;
+    margin-top: 7px;
+    margin-left: 50px;
+    font-size: 14px;
+ }
+ .bg-color{
+    background-color: #ffffff !important;
+    /* width: 50%; */
+ }
+
+ /* tab sectiom */
+ .tab-btn {
+    border: none;
+    width: 150px;
+    height: 60px;
+ }
+ .tabsborderr{
+    width: 60px;
+ }
+ .wd-tab1{
+    width: 220px;
+ }
+ .tabml-1st{
+    margin-left: 29px;
+ }
+ .margin-tab{
+    margin-left: -35px;
+ }
+ .marg-2nd{
+    margin-left: 150px;
+    margin-top: 60px;
+ }
+ .font-sz{
+    font-size: 18px;
+ }
+ .text{
+    float: right;
+ }
+ .backgound-img{
+    color: #005dbe;
+ }
+ .text-styling{
+    color: #8495a2;
+    font-size: .875rem;
+ }
+ .flex-center{
+    display: flex;
+    justify-content: center;
+ }
+ .mobile-dropdown {
+    width: 40%; /* Adjust width as needed */
+    height: 50px;
+    margin: auto;
+    border: 2px solid #ccd1d9;
+    border-radius: 5px;
+  }
+ @media (max-width:1124px) {
+    .text-11{
+        font-size: 17px;
+      }
+     .hr-margin{
+      width: 75%;
+     }
+     .hr1-margin{
+      width: 75%;
+     }
+ }
+ @media (max-width:1020px) {
+   .wd-tab1{
+      width: fit-content;
+
+   }
+}
+ @media (max-width:780px) {
+   .wd-tab1{
+      width: fit-content;
+
+   }
+}
+   

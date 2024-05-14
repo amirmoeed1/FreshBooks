@@ -1,0 +1,44 @@
+.more-articles {
+  margin-right: 17%;
+}
+.casestudy {
+  gap: 25px;
+  box-shadow: 30px;
+  position: relative;
+}
+.wrap{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card-img-top2 {
+  background-color: #fff9e8;
+  color: #062942;
+  padding: 40px;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  max-width: 1400px;
+  width: 400px;
+  height: 400px;
+  /* line-height: 1.4px; */
+} 
+h2.section-title {
+  font-size: 28px;
+  width: 100%;
+  padding-left: 8px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  letter-spacing: 1px;
+  line-height: 125%;
+  text-align: center;
+  display: block;
+  color: #062942;
+}
+.dscr {
+  color: #062942;
+}
+.color-btn-1{
+  background-color: #36a900;
+  color: white;
+}

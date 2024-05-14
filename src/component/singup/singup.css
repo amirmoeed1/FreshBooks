@@ -1,0 +1,110 @@
+.sss-100 {
+    background-color: #0075dd;
+    justify-content: center;
+    height: 800px!important;
+}
+.cardd{
+    width: 450px!important;
+    margin: auto;
+    left: 0;
+    right: 0;
+
+}
+.imgs{
+    width: 300px;
+}
+.color{
+    background-color: #37a703!important;
+    color: #fff!important;
+}
+.div1{
+    width: 100px;
+    height: 0.5px;
+    margin-right: 20px;
+
+    background-color: black;
+}
+.div2{
+    width: 100px;
+    height: 0.5px;
+    background-color: black;
+    margin-left: 20px;
+
+}
+.mainss{
+    display: flex;
+    justify-content: center;
+    /* margin-top: 30px!important; */
+    height: fit-content!important;
+}
+.top{
+    margin-top: -13px;
+}
+.btn1{
+    background-color: #ffffff!important ;
+    /* border: 1px solid; */
+}
+.btn1:hover{
+    color: lightgray;
+}
+.img1{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 25px!important;
+
+}
+.texts{
+    margin-top: 20px!important;
+}
+.img2{
+    margin-left: 175px;
+}
+.texts1{
+    margin-top: -22px!important;
+
+}
+.google{
+    width: 100%!important;
+    height: 54px !important;
+}
+/* Add transition effect to input fields */
+.form-outline input[type="email"],
+.form-outline input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Style for focused input fields */
+.form-outline input[type="email"]:focus,
+.form-outline input[type="password"]:focus {
+    border-color: #007bff;
+}
+
+/* Placeholder styling and zoom-out effect */
+.form-outline input[type="email"]::placeholder,
+.form-outline input[type="password"]::placeholder {
+    color: #aaa;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Zoom-out effect for focused input fields */
+.form-outline input[type="email"]:focus::placeholder,
+.form-outline input[type="password"]:focus::placeholder {
+    font-size: 12px;
+    transform: translate(-5px, -15px) ;
+    color: #007bff;
+}
+
+/* Add some margin to the checkbox */
+.form-check {
+    margin-left: 10px;
+}
+
+/* .gogles{
+    width: 100%!important;
+    height: 80px!;
+    height: 200px;
+} */

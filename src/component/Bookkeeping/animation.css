@@ -1,0 +1,14 @@
+/* Center the content */
+.new-cta-bar__container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: relative; */
+    background-color: #001a43;
+    background-size: cover;
+    height: 500px;
+}
+.bg-img{
+    width: 25vw;
+}

@@ -1,0 +1,44 @@
+.background-color-1{
+    background-color: #002d79;
+    /* width: 60%; */
+}
+.btn-cta-green {
+    background-color: #36a900;
+    border-color: #36a900;
+    color: #fff;
+    font-family: founders-grotesk, helvetica, arial, sans-serif;
+  }
+  .para-color{
+    color: #7991b9;
+  }
+  .para-color1{
+    color: #79b6ed;
+  }
+  .position22{
+  margin-top: -50px;
+  }
+  @media (max-width:768px){
+    .fluid-1{
+        display: none;
+
+    } 
+    .fluid-2{
+        display: block;
+        /* background-color: #002d79; */
+         color: white !important;
+        /* text-decoration: white; */       
+
+    }
+  }
+  @media (min-width:769px){
+    .fluid-2{
+        display: none;
+ 
+    } 
+  }
+  @media (max-width:1024px){
+    .img-remove{
+        display: none;
+    }
+    
+  }

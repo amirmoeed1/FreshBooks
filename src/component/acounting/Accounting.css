@@ -1,0 +1,96 @@
+.img-bg{
+    background-image: url('../../../public/assets/hero.webp');
+    background-size: cover;
+    background-position: right;
+    background-color: #fffaea;
+    padding-top: 150px;
+}
+@media only screen and (max-width: 767px) {
+    .img-bg {
+      background-image:none;
+    }
+    .min-height{
+        display: block !important;
+        background-image: url("../../../public/assets/hero-mobile.webp");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right ;
+        /* position:relative; */
+        margin-top: -60vh;
+        width: 93vw;
+    }
+    .first-4{
+        font-size: 16px !important;
+    }
+   
+  }
+
+
+  @media (min-width: 768px) {
+    /* Large screen */
+  #accounting .text-shado2{
+    display: block;
+  }
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+   
+    #accounting .text-shado2{
+        display: none;
+      }
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+   
+    #accounting .para1{
+        text-align: center;
+    }
+}
+ 
+
+#accounting .buton{
+    width: 300px;
+    height: 50px;
+    background-color:rgb(16, 183, 16);
+    color: white;
+    font-size: 22px;
+    border-radius: 10px;
+    border: none;
+}
+
+#accounting .botn{
+    width: 200px;
+    height: 50px;
+    background-color:rgb(16, 183, 16);
+    color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+#accounting .min-height{
+    min-height: 400px;
+    display: none ;
+}
+#accounting .max-width{
+    max-width: 200px;
+}
+#accounting .text-shadow{
+    text-shadow: 1px 1px 0px white !important;
+    
+}
+@media (max-width:577px) {
+    .order-sm-2{
+        order: 2 !important;
+    }
+    .order-sm-1{
+        order: 1 !important;
+    }
+
+}
+
+
+
+

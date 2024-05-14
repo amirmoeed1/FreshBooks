@@ -1,0 +1,19 @@
+.image {
+  display: block;
+  gap: 30px;
+}
+.more-articles {
+  margin-right: 17%;
+}
+.casestudy {
+  gap: 25px;
+  box-shadow: 30px;
+  position: relative;
+}
+.tc {
+  color: #062942;
+}
+.wrap{
+  flex-wrap: wrap;
+  justify-content: center;
+}

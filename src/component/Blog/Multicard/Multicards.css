@@ -1,0 +1,64 @@
+.heading{
+  font-size: 38px;
+  line-height: 44px;
+  color: #062942;
+
+  padding: 30px;
+  text-align: center;
+}
+h1 .bg {
+  background: url(https://www.freshbooks.com/blog/wp-content/themes/freshtheme/assets/img/bg_h1.svg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  padding-bottom: 10px;
+  font-size: 2.5rem;
+}
+.bg{
+  
+    letter-spacing: -0.2px;
+    line-height: 161%;
+}
+
+.subheading {
+  font-size: 16px;
+  color: #8495a2;
+  line-height: 22px;
+  display: block;
+  margin-bottom: 20px;
+  line-height: 161%;
+  font-size: 17px;
+  font-family: "IBM Plex Sans Condensed";
+  letter-spacing: -0.2px;
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+}
+
+.abc {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.btn-mtn {
+  background-color: #062942;
+  color: whitesmoke;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-top: -25px;
+  padding: 5px 10px;
+  width: max-content;
+}
+.multicard {
+  background-image: url(https://www.freshbooks.com/blog/wp-content/uploads/2018/02/Blog_Ad_standtall_text-e1612131321831.jpg);
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 390px;
+  max-width: 1900px;
+  border-radius: 8px;
+}
+.dscr {
+  color: #062942;
+}

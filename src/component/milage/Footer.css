@@ -1,0 +1,19 @@
+
+#footer .container{
+    display: flex;
+}
+.logo{
+    display: flex;
+    /* margin: auto; */
+    width: 150px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    
+    list-style:none;
+    
+    
+} 

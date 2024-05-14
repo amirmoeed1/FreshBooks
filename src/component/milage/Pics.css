@@ -1,0 +1,291 @@
+.new-cta-bar__container {
+  background: #001a43;
+  padding: 3.125rem 0.9375rem;
+}
+
+@media (min-width: 480px) {
+  .new-cta-bar__container {
+    padding: 4.375rem 0.9375rem 3.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .new-cta-bar__container {
+    padding: 6.25rem 0.9375rem 5rem;
+  }
+}
+
+.new-cta-bar__content {
+  z-index: 10;
+}
+
+.new-cta-bar__cta-button {
+  max-width: 100%;
+  min-width: 278px;
+}
+
+@media (min-width: 768px) {
+  .new-cta-bar__cta-button {
+    min-width: 234px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .new-cta-bar__cta-button {
+    min-width: 338px;
+  }
+}
+
+.new-cta-bar__after-cta-button {
+  font-size: 0.8125rem;
+  line-height: 1.1;
+}
+
+.new-cta-bar__image-container {
+  left: 0;
+  pointer-events: none;
+  top: 0;
+}
+
+.imgss {
+  height: auto;
+  animation:rightAnimation 1.9s ease-in-out forwards;
+
+}
+.imgs1{
+    height: auto;
+    animation: moveLeftAnimation 2.5s ease-in-out forwards;
+}
+.imgs2{
+    height: auto;
+    animation: moveLeftAnimation 2.5s ease-in-out forwards;
+}
+
+.new-cta-bar__image-left {
+  left: -1.25rem;
+  top: 1.25rem;
+  width: 15.625rem;
+}
+
+@media (min-width: 1024px) {
+  .new-cta-bar__image-left {
+    left: auto;
+    right: 72%;
+    top: 3.75rem;
+    width: 39.375rem;
+  }
+}
+
+@media (max-width: 1279.98px) {
+  .new-cta-bar__image-left {
+    max-width: 36%;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .new-cta-bar__image-left {
+    position: relative;
+    right: 0;
+    top: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .new-cta-bar__image-left {
+    display: none;
+  }
+}
+
+.new-cta-bar__image-top-right {
+  right: 1.25rem;
+  top: -0.625rem;
+  width: 13.125rem;
+}
+
+@media (min-width: 1024px) {
+  .new-cta-bar__image-top-right {
+    left: 79%;
+    right: auto;
+    top: 0.3125rem;
+    width: 20rem;
+  }
+}
+
+@media (max-width: 1279.98px) {
+  .new-cta-bar__image-top-right {
+    max-width: 22%;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .new-cta-bar__image-top-right {
+    position: relative;
+    right: 0;
+    top: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .new-cta-bar__image-top-right {
+    display: none;
+  }
+}
+
+.new-cta-bar__image-bottom-right {
+  right: 6.25rem;
+  top: 26.25rem;
+  width: 9.375rem;
+}
+
+@media (min-width: 1024px) {
+  .new-cta-bar__image-bottom-right {
+    left: 70%;
+    right: auto;
+    top: 21.25rem;
+    width: 25rem;
+  }
+}
+
+@media (max-width: 1279.98px) {
+  .new-cta-bar__image-bottom-right {
+    left: 80%;
+    max-width: 22%;
+    top: 60%;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .new-cta-bar__image-bottom-right {
+    position: relative;
+    right: 0;
+    top: calc(100% - 152px);
+  }
+}
+
+.new-cta-bar__image-wrapper {
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.modal {
+  background-color: rgba(0, 27, 64, 0.9);
+  z-index: 2147483637;
+}
+
+.modal-backdrop {
+  z-index: 2000000000;
+}
+
+.modal__header {
+  background-color: #0075dd;
+  color: #fff;
+}
+.modal__body {
+  max-width: 480px;
+}
+
+.modal__cta {
+  font-size: 1.2rem;
+  max-width: 290px;
+}
+
+.modal__bottom-text {
+  font-size: 0.875rem;
+}
+
+.modal__close-button {
+  background: none;
+  border: none;
+  color: #8495a2;
+  padding-right: 30px;
+  right: 10px;
+  top: 10px;
+}
+
+.modal__close-button span {
+  border-radius: 1px;
+  height: 4px;
+  right: 6px;
+  top: 12px;
+  width: 20px;
+}
+
+.modal__close-button span:first-child {
+  transform: rotate(-45deg);
+}
+
+.modal__close-button span:last-child {
+  transform: rotate(45deg);
+}
+
+.modal__content-heading_stages {
+  font-size: 2.125rem;
+  line-height: 1.0625;
+}
+.w-100 {
+  width: 100% !important;
+}
+.font-weight-medium {
+  font-weight: 500;
+}
+.stats__stats-description {
+  color: #062942;
+}
+
+.colorss {
+  color: #fff;
+}
+.colo {
+  color: #fff;
+  font-size: 6rem;
+  font-family: moranga-italic, helvetica, arial, sans-serif;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .font-size-xxl {
+    font-size: 3.5rem;
+  }
+}
+
+.main-div {
+  background-color: #001a43 !important;
+  position: relative;
+  width: 100%;
+  /* height: 100vh; */
+  overflow: hidden;
+}
+@keyframes rightAnimation{
+    from {
+       left: -350px;
+       opacity: 0;
+
+   }
+   to {
+       left: -250px;
+       opacity: 1;
+}
+}
+@keyframes moveLeftAnimation {
+    from {
+        right: -200px;   
+        opacity: 0;
+    }
+    to {
+        right: -50px;
+        opacity: 1;
+    }
+}
+.Button{
+  width: 350px;
+  height: 50px;
+  background-color:rgb(16, 183, 16);
+  color: white;
+  font-size: 20px;
+  border-radius: 15px;
+  border: none;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}

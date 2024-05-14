@@ -1,0 +1,311 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+.img {
+  
+  position: absolute;
+  top: 4px;
+  right: 0px;
+  z-index: 1;
+  width: 500px !important;
+  height: 650px;
+  border-bottom-right-radius:100px ;
+
+}
+ 
+  
+
+.ama {
+
+  /* position: relative; */
+
+  width: 100%;
+  height: 650px;
+  background-color: #0075dd;
+  border-bottom-right-radius:200px;
+}
+
+
+.asd {
+  color: rgb(253, 251, 251);
+  margin-bottom: 40px;
+  font-family: founders-grotesk, arial-fbfont, sans-serif;
+}
+@media only screen and (max-width:768px){
+  [class*="asd"]{
+    text-align: center;
+  }
+  
+}
+.abs{
+  width: 35px;
+}
+.afg{
+  z-index: 1;
+  border-radius: 5px;
+  width: 50%;
+  height: 400px; 
+}
+@media only screen and (max-width:768px) {
+  [class*="afg"]{
+    width: 270px;
+    height: 300px;
+    
+  }
+  
+}
+.nav{
+  /* border: none; */
+  border-width:2px ;
+  padding-top: 10px;
+  padding-top: 0px;
+  
+}
+.midbox{
+  height: 100px;
+  border-radius: 4px;
+  
+  
+}
+  
+
+
+.ned{
+  width: 35px;
+  
+}
+.mam{
+  width: 100%;
+  border-radius: 5px;
+  height: 45px;
+  font-weight: 500 !important;
+  margin-top: 25px;
+  background-color: white;
+  
+
+}
+.mam:hover{
+  background-color: #001b40;
+  transition: 0s;
+  color: white; 
+  
+}
+.gibb {
+  width: 50%;
+  border-radius: 5px;
+  height: 45px;
+  font-weight: 500 !important;
+  margin-top: 25px;
+  background-color: white;
+  
+  
+}
+.gibb:hover{
+  background-color: #001b40;
+  transition: 0s;
+  color: white; 
+  
+}
+.ghq{
+  font-weight: 700;
+  font-size: 26px;
+ 
+}
+.pak{
+  font-weight: 700;
+  font-size: 25px;
+}
+.facebookIcon{
+  position: relative;
+  left:10px
+}
+
+.uae{
+  width: 330px;
+  font-size: 17px;
+  
+}
+@media only screen and (max-width:768px) {
+  [class*="uae"]{
+    width:400px;
+  }
+  
+}
+.akh{
+  width: 100%;
+}
+.arm{
+  margin: -17px;
+  padding-left: 19px;
+
+}
+.srh{
+  font-weight: 600;
+  margin-left: -5px;
+  padding-top: 20px;
+}
+@media only screen and (max-width:768px) {
+  [class*="photobox"]{
+    width:250px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+}
+
+.ras{
+  width:30px;
+  margin-bottom: 36px;
+}
+
+.sar{
+  width: 40px;
+  margin-bottom: 35px;
+}
+
+.mon{
+  width: 100%;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+
+.pakw{
+  width: 280px;
+  padding-bottom: 100px;
+  
+}
+
+.bra{
+  font-weight: 700;
+}
+.port{
+  border: none;
+  background-color: white;
+  justify-content: center;
+  
+  
+}
+
+.port:hover{
+  color: white;
+  transition: 0s;
+}
+
+
+
+
+.mog{
+  border: 1px solid rgb(115, 110, 110);
+  height: 100%;
+ width: 100%;
+ margin: auto;
+ border-radius: 4px;
+ font-size: 19px;
+ padding-top: 25px;
+ 
+ 
+}
+.kkl{
+  height: 300px;
+  
+  border: 4px black;
+  text-align: center;
+  background-color: red;
+}
+
+.qqr{
+  height: 300px;
+  border: 4px black;
+  justify-content: center;
+  background-color: rgb(14, 236, 37);
+}
+.omg{
+  width: 100%;
+  height: 100%;
+}
+
+
+.dub{
+  background-color: #fff9e8;
+  
+ padding: 0;
+}
+.akr{
+  padding-top: 80px;
+  padding-bottom: 30px;
+  font-weight: 700;
+  
+}
+
+.fsd{
+  width: 20px;
+}
+
+.lhr{
+  width: 200px;
+  border-radius: 5px;
+  height: 50px;
+  font-weight: 600 !important;
+  margin-top: 1px;
+  background-color: #fff9e8;
+  
+  font-size: 20px;
+
+}
+.lhr:hover{
+  background-color: #001b40;
+  transition: 0s;
+  color: white;
+
+}
+/* .vr{
+  
+  background-color: rgb(117, 117, 111);
+
+} */
+
+.chr{
+  border: 2px solid #C2C8D1;
+  border-radius: 5px;
+  width: 45%;
+}
+.chem{
+  border: 2px solid #C2C8D1;
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.6);
+  width: 45%;
+}
+.inline{
+  font-size: 13px;
+  font-weight: 400;
+}
+.mang{
+  
+  margin-bottom: 17px;
+  margin-right: 6px;
+}
+.alb{
+  font-size: 13px;
+  color: white;
+}
+.istan{
+  background-color: #36A900;
+  
+  margin-top: 20px;
+  height: 45px;
+  border-radius: 4px;
+  border: 0;
+  color: white;
+  width: 100%;
+}
+@media only screen and (max-width:768px) {
+  [class*='footer']{
+    text-align: center;
+  }
+}

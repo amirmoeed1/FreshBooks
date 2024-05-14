@@ -1,0 +1,231 @@
+@media (min-width: 768px) {
+    /* Large screen */
+    #mileage .dis{
+        display:block ;
+    }
+
+   #mileage .res{
+        display:block ;
+    }
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+    #mileage .dis{
+        display: none !important; 
+    }
+   #mileage .res{
+        display: none !important;
+    }
+    
+}
+
+
+
+
+
+
+
+ 
+ @media (min-width: 768px) {
+    /* Large screen */
+  #mileage  .container-fluide {
+        display: none;
+    }
+
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+  #mileage  .container-fluide {
+        display: block;
+        background-color: blue;
+        color: rgb(245, 245, 245);
+    }
+}      
+
+
+@media (min-width: 768px) {
+    /* Large screen */
+    #mileage.res2 {
+        display: none;
+    }
+
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+  #mileage  .res2{
+        display: block;
+     
+    }
+}
+
+
+ #mileage .first-2{
+    
+    background-color: #fffaea;
+    border-top-right-radius: 400px ;
+    padding-top: 6%;
+    text-align: center;
+    border-bottom-left-radius: 400px ;
+    
+    
+} 
+#mileage .heading1{
+    font-size: 15px;
+    color: #373cb4;
+}
+
+
+@media (max-width: 1012px) {
+    /* Small screen */
+   #mileage .first-1 {
+        border-top-right-radius: 0;
+      border-bottom-left-radius: 0;
+      
+    }
+}
+ #mileage .btn{
+    width: 200px;
+    height: 50px;
+    background-color:rgb(16, 183, 16);
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+    border: none;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+#mileaage h1{
+    font-size: 17px;
+    color: #005DAB;
+    /* margin-bottom: 30px; */
+}
+ 
+#mileage h2{
+    font-size: 50px;
+}
+#mileage .p-tag{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#mileage .para-3{
+    background-color: rgb(4, 4, 62);
+    width: 100% !important;
+    height: 400px;
+    margin-top: 100px;
+}
+
+#mileage .gg{
+    position: relative;
+}
+#mileage .img1{
+    height: 400px;
+    width: 300px;
+}
+#mileage .img1{
+ position: relative;
+    
+}
+ #mileage.img2{
+    position: right;
+}
+#mileage.color{
+  background-color:#edf4ff;
+}
+#mileage .bg-dark-blue{
+    background-color: #002d79;
+}
+#mileage .f1{
+    color: #9b97f2;
+    font-size:medium;
+    text-size-adjust: 15px;
+}
+#mileage .f2{
+    color: white;
+}
+
+#mileage .btn2{
+    width: 280px;
+    height: 50px;
+    background-color:rgb(16, 183, 16);
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+    border: none;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+#mileage .p5{
+    color: #9b97f2;
+}
+
+#mileage .dis{
+    color: white;
+   
+}
+#mileage .res{
+    color: white;
+}
+#mileage .dis p{
+    color: gray;
+}
+#mileage .client{
+    width: 100%;
+    background-color: #fdfde7;
+}
+.btn3{
+    width: 280px;
+    height: 50px;
+    background-color: #fdfde7;
+    border: 2px solid black;
+    font-size: 25px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.btn-group{
+    width: 180px;
+    flex-direction: column;
+}
+.btn4{
+    width: 100%;
+    text-wrap: nowrap;
+    height: 50px;
+    background-color:#fdfde7 ;
+    border: 2px solid black;
+    font-size: 25px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+/* #mileage .six-section{
+    margin-left: 60px;
+} */
+
+.text-group p{
+    padding-top: 15px;
+}
+.btn7{
+   
+    background-color:rgb(16, 183, 16);
+    color: white;
+    font-size: 20px;
+    /* border-left: none; */
+    border: 1px solid #fdfde7;
+    border-radius: 5px;
+}
+.p3{
+    font-size: small;
+}
+@media (max-width:577px) {
+    .order-sm-2{
+        order: 2 !important;
+    }
+    .order-sm-1{
+        order: 1 !important;
+    }
+
+}

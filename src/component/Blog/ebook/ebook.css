@@ -1,0 +1,10 @@
+.wrap{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+  min-height: 1px;
+}
+.more-articles {
+  margin-right: 17%;
+}

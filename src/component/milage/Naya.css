@@ -1,0 +1,18 @@
+
+@media (min-width: 768px) {
+    /* Large screen */
+    .res3{
+        display: none;
+        
+    }
+
+}
+
+@media (max-width: 767px) {
+    /* Small screen */
+    .res3{
+        display: block;
+        color: white;
+     
+    }
+}
