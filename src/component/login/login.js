@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import "./login.css";
 import { useForm } from "react-hook-form";
-import GoogleLogin from "react-google-login";
+// import GoogleLogin from "react-google-login";
 const CLIENT_ID =
   "64657723314-mrtjdkhco5q7trdrip9qh3mjktlra9f3.apps.googleusercontent.com";
 export function Login() {
@@ -93,14 +93,14 @@ export function Login() {
                       <p className="top">OR</p>
                       <div className="div2"></div>
                     </div>
-                    <GoogleLogin
+                  <div
                       className="google"
                       clientId={CLIENT_ID}
                       buttonText="Log in with Google"
                       onSuccess={onSuccess}
                       onFailure={onFailure}
                       cookiePolicy={"single_host_origin"}
-                    />
+                     > </div>
                     <div className="password">
                       <div>
                         <Link>Forgot Your Password?</Link>

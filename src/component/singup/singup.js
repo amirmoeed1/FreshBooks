@@ -1,6 +1,6 @@
 import { useForm } from "react-hook-form";
 import "./singup.css";
-import GoogleLogin from "react-google-login";
+// import GoogleLogin from "react-google-login";
 import { Link } from "react-router-dom";
 const CLIENT_ID =
   "64657723314-mrtjdkhco5q7trdrip9qh3mjktlra9f3.apps.googleusercontent.com";
@@ -95,7 +95,7 @@ export function Singup() {
                       <div className="div2"></div>
                     </div>
 
-                    <GoogleLogin
+                    <div
                       className="google"
                       clientId={CLIENT_ID}
                       buttonText="Log in with Google"
