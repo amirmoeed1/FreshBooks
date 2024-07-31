@@ -7,23 +7,7 @@ const Payments1 = () => {
 
   return (
     <div className="container mt-5">
-      {/* <div className="col-md-10 col-lg-8 col-xl-6 m-auto text-center"> */}
-      {/* <div className="row backgrondImg">
-          <h1 className="font-weight-bold mt-5">
-            Accept Payments Online and <br /> Get Paid 2x Faster
-          </h1>
-          <p className="para-01 mt-4">
-            FreshBooks Payments make it easier for your clients to pay online,
-            which<br/> means you get paid twice as fast. What better way to improve
-            your <br />
-            cashflow!
-          </p> */}
-      {/* <button className="btn-01 mt-3">Try It Free</button>
-          <p className="para-02">
-            No credit card required. Cancel <br />
-            anytime.
-          </p> */}
-
+       
       {/* Tab buttons */}
       <div className="row">
         <div className="col">
