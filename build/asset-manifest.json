@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55215744.css",
+    "main.js": "/static/js/main.30827a09.js",
+    "static/js/453.0e6e7307.chunk.js": "/static/js/453.0e6e7307.chunk.js",
+    "static/media/home-hero-q1-s2-2024-scaled.webp": "/static/media/home-hero-q1-s2-2024-scaled.8e64b7b9c7b72b1a6bf7.webp",
+    "static/media/main-1.jpg": "/static/media/main-1.d3231adbf3b0e4cd2d04.jpg",
+    "static/media/hero.webp": "/static/media/hero.6371fa1c77a331055ffa.webp",
+    "static/media/hero-expenses-cream.webp": "/static/media/hero-expenses-cream.df94be118a3e208b9025.webp",
+    "static/media/timetesting.jpeg": "/static/media/timetesting.3aa92d6e16d8f8e99a2b.jpeg",
+    "static/media/mainimg2.webp": "/static/media/mainimg2.4d6a75d4c576e5d33109.webp",
+    "static/media/main2ndimg.webp": "/static/media/main2ndimg.24ca2fa1b496425b67e3.webp",
+    "static/media/mainmobileimg.webp": "/static/media/mainmobileimg.670cb06cd9089222b9cc.webp",
+    "static/media/hero-mobile.webp": "/static/media/hero-mobile.2c9b6c34a05312ac2107.webp",
+    "index.html": "/index.html",
+    "static/media/Footer.module": "/static/media/Footer.1360fcf9134e43980a41.module",
+    "static/media/tikmark.svg": "/static/media/tikmark.45d1aed837a146aca0dd.svg",
+    "main.55215744.css.map": "/static/css/main.55215744.css.map",
+    "main.30827a09.js.map": "/static/js/main.30827a09.js.map",
+    "453.0e6e7307.chunk.js.map": "/static/js/453.0e6e7307.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55215744.css",
+    "static/js/main.30827a09.js"
+  ]
+}

@@ -1,0 +1,38 @@
+@media (max-width:1024px){
+    .hiid{
+        display: none !important;
+    }
+}
+
+
+
+
+#footer .container{
+
+font-family: ibm-plex-sans, arial, sans-serif;
+    line-height: 161%;
+    font-weight: 400;
+}
+.logo{
+    display: flex;
+    
+    
+}
+.words li a{
+    
+    color: black;
+}
+.words{
+    
+    list-style:none; 
+} 
+.words{
+    
+    font-size: 14px;
+    line-height: 25px;
+    word-spacing: 0px;
+}
+.specific{
+    line-height: 16px;
+}
+
