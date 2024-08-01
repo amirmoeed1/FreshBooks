@@ -17,6 +17,10 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+  "@babel/plugin-transform-optional-chaining": "^7.21.0"
+},
+
  "scripts": {
     "install": "npm install --legacy-peer-deps",
     "build": "react-scripts build",
